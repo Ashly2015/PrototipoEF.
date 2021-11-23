@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Componentes",
+    "\\Componentes\\ConsultasInteligentes\\ConsultasInteligentes",
+    "\\Componentes\\ConsultasInteligentes\\ConsultasInteligentes\\consultasinteligentes",
+    "\\Componentes\\ConsultasInteligentes\\ConsultasInteligentes\\consultasinteligentes\\CapaModelo",
+    "\\Componentes\\Navegador\\DLLnav",
+    "\\Componentes\\Navegador\\DLLnav\\CapaModelo",
+    "\\Componentes\\Reporteador",
+    "\\Componentes\\Seguridad",
+    "\\Componentes\\Seguridad\\CodigoBitacora",
+    "\\Componentes\\Seguridad\\SeguridadHSC"
+  ],
+  "SelectedNode": "\\Componentes\\Reporteador\\ComponenteReporteador\\CapaVistaReporte",
+  "PreviewInSolutionExplorer": false
+}

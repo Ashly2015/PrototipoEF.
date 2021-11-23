@@ -1,0 +1,6 @@
+C:\Users\ranbr\Documents\SISTEMAS\ANALISIS DE SISTEMAS II\PrototipoEF\Ventas\Modelo\bin\Debug\CapaModeloMVentasCC.dll
+C:\Users\ranbr\Documents\SISTEMAS\ANALISIS DE SISTEMAS II\PrototipoEF\Ventas\Modelo\bin\Debug\CapaModeloMVentasCC.pdb
+C:\Users\ranbr\Documents\SISTEMAS\ANALISIS DE SISTEMAS II\PrototipoEF\Ventas\Modelo\obj\Debug\CapaModeloMVentasCC.csprojAssemblyReference.cache
+C:\Users\ranbr\Documents\SISTEMAS\ANALISIS DE SISTEMAS II\PrototipoEF\Ventas\Modelo\obj\Debug\CapaModeloMVentasCC.csproj.CoreCompileInputs.cache
+C:\Users\ranbr\Documents\SISTEMAS\ANALISIS DE SISTEMAS II\PrototipoEF\Ventas\Modelo\obj\Debug\CapaModeloMVentasCC.dll
+C:\Users\ranbr\Documents\SISTEMAS\ANALISIS DE SISTEMAS II\PrototipoEF\Ventas\Modelo\obj\Debug\CapaModeloMVentasCC.pdb
