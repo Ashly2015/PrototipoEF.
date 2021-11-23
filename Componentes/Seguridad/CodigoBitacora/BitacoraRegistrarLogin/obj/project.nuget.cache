@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3u/7RjvyCul/B8f2OeHtHrcybPBMCQM+DfPfqp9ffJre0aIQXWuVWyFqBIigPApoKhWewL7dLXo4siDPaggxYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ranbr\\Documents\\SISTEMAS\\ANALISIS DE SISTEMAS II\\PrototipoEF\\Componentes\\Seguridad\\CodigoBitacora\\BitacoraRegistrarLogin\\Bitacora.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ranbr\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512",
+    "C:\\Users\\ranbr\\.nuget\\packages\\system.data.odbc\\5.0.0\\system.data.odbc.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
